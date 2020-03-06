@@ -4,7 +4,7 @@ Written by Michael Loo - 100702210 and Abdullah Riaz Raja - 100693348
 
 For our final submission, we collected all the source files and imported them into one IntelliJ project for consistency and final testing. Individual Source files are labelled by "Question#" and can be found in src -> sample -> "the files"
 
-The project can be cloned from: <site goes here>
+The project can be cloned from: https://github.com/abdullah-riaz-raja/csci2020u-dev-assignment.git
 
 Question1:
 	-Is dependent on a folder called "Cards"
